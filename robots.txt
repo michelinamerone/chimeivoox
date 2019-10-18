@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://saoyothur.osscomputers.net/sitemap.xml
